@@ -2,7 +2,6 @@
 #define PLAYER_H
 
 #include <cstring>
-#include <ostream>
 #include <string>
 #include "Bone.h"
 #include "Yard.h"
